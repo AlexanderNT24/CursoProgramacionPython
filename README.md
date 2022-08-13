@@ -1,4 +1,4 @@
-# CursoProgramacionPython CODEMATIC
+# Curso Programacion Python CODEMATIC
 Material destinado para nuestros estudiantes.
 #### Temas Vistos:
 ```
